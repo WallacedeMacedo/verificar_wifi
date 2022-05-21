@@ -32,3 +32,4 @@ class Credencial:
         except NoSuchElementException as e:
             print('Elemento não encontrado na página' + str(e))
             return 0
+

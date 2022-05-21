@@ -157,3 +157,4 @@ class Bot:
                   'obscurecendo o elemento que foi solicitado para ser clicado.')
         except NoSuchElementException:
             print('Botão "Sair" não foi encontrado.')
+

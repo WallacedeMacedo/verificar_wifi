@@ -16,3 +16,4 @@ class Menu:
         bot.lista_dispositivos()
         bot.bloquear_desbloquear()
         bot.sair()
+
